@@ -20,8 +20,6 @@ I'm a game developer who builds immersive digital worlds and experiences from th
 
 #
 
----
-
 ### 📝 Connect with me:
 
 <p align="left">
