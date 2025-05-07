@@ -27,10 +27,10 @@ I'm a game developer who builds immersive digital worlds and experiences from th
 <p align="left">
   <a href="https://www.linkedin.com/in/calvin-galonska/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/%20LinkedIn%20-CD14BC" /> 
-  <a href="https://theresa-schlag.com/">
-    <img alt="Portfolio" src="https://calvingalonska.myportfolio.com" /> 
-  <a href="https://www.instagram.com/picmansmodel/">
-    <img alt="Instagram" src="https://www.instagram.com/calvin_galonska/" /> 
+  <a href="https://calvingalonska.myportfolio.com">
+    <img alt="Portfolio" src="https://img.shields.io/badge/%20Portfolio%20-CD14BC" /> 
+  <a href="https://www.instagram.com/calvin_galonska/">
+    <img alt="Instagram" src="https://img.shields.io/badge/%20Instagram%20-CD14BC" /> 
     
   
 </p>
